@@ -1,4 +1,4 @@
-CCleaning and Getting Data course project
+Cleaning and Getting Data course project
 
 An analysis of accelerometer data generated from an experiment with Samsung Galaxy S smartphones.
 
